@@ -1,3 +1,3 @@
 # myfirst_repo
 Jang seunggyu
-asdasd
+x + y = 85
